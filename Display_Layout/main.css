@@ -1,0 +1,30 @@
+
+
+.box1 {
+    width: 760px;
+    padding: 2px;
+    border: 2px solid red;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.box2 {
+    padding: 2px;
+    border: 2px solid red;
+    border-radius: 10px;
+    display: inline-block;
+    width: 40px;
+    vertical-align: top;
+}
+
+.box3 {
+    padding: 2px;
+    border: 2px solid red;
+    border-radius: 10px;
+    display: inline-block;
+    width: 660px;
+    vertical-align: top;
+
+}

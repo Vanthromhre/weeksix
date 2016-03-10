@@ -1,0 +1,45 @@
+body {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    border: 1px solid black;
+}
+
+.container {
+    position: relative;
+    border: 4px solid yellow;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav {
+    position: absolute;
+    left: 0px;
+    width: 200px;
+    border: 1px solid blue;
+}
+
+section {
+    height: 250px;
+    margin-left: 200px;
+    border: 1px solid green;
+}
+
+.ftr {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: grey;
+    border: 1px solid red;
+    width: 100%;
+}
+
+.hdr {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 70px;
+    background-color: grey;
+    border: 1px solid red;
+    width: 100%;
+}

@@ -1,0 +1,17 @@
+
+
+.box1 {
+    padding: 2px;
+    border: 2px solid black;
+    display: block;
+
+
+}
+
+.box2 {
+    padding: 2px;
+    border: 2px solid black;
+    display: inline-block;
+    width: 600px;
+}
+

@@ -1,0 +1,29 @@
+div, img {
+border: 2px solid red;
+border-radius: 10px;
+padding: 10px;
+margin: 20px;
+}
+
+div {
+    overflow: auto;
+}
+
+#one {width: 90%;
+    height: 250px;
+}
+
+#two {
+    width: 90%;
+    height: 225px;
+}
+#left {
+    background-color: white;
+    float: left;
+}
+
+#right {
+ float: right;
+}
+
+

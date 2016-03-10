@@ -1,0 +1,19 @@
+
+nav {
+    border: 1px solid red;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 14%;
+    vertical-align: top;
+    float: left;
+
+}
+
+main {
+    border: 1px solid red;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 85%;
+    float: right;
+    padding: 10px;
+}
